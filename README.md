@@ -3,7 +3,7 @@
 ## Explanation
 These are projects that, while I have decided to place on the backburner to work on other projects, still have some merit worth showcasing. They are typically left behind because of either a lapse in interest on my end or because I would need more experience on specific aspects of their development before I could entertain the idea of releasing them, commercially or otherwise. 
 
-However, it is still my intention to revisit them at some point. In the meantime, I try to work on things that have some connection to these projects so that I might build the required experience and confidence necessary. 
+However, it is still my intention to revisit them at some point. In the meantime, I try to work on things that have some connection to these projects so that I can eventually learn how to make these projects work.
 
 ### Disclaimer
 Note that these are nothing near finished products. These projects have something interesting worth showing off and aren't going to be impressive on their own. There will be aspects of them that aren't 100% perfect. That doesn't bother me much though, because they won't be relevant to what I found neat about them. Also, there isn't any code publically available for any of these. Sorry. Since I had planned for them to be commercialized and want to revisit them, I don't plan on putting all of the ugly, ugly code out there for people to see. Feel free to ask me for it though. I'll almost certainly say yes. Everything on display has one associated video showing off the aforementioned 'neat' part. Please forgive me for the terrible asset quality - they are placeholders from the internet, Unity prefabs, or (God forbid) my own creations. Eat your heart out.
